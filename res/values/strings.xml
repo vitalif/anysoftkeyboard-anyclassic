@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AnyClassic AnySoftKeyboard Theme</string>
+    <string name="anyclassic_keyboard_theme_name">AnyClassic Theme</string>
+    <string name="anyclassic_keyboard_theme_description">AnySoftKeyboard theme looking like previous versions of AnySoftKeyboard</string>
+
+</resources>

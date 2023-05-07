@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<KeyboardThemes>
+    <KeyboardTheme
+        id="ae78fed7-fba8-4025-9af6-999449d84d3d"
+        nameResId="@string/anyclassic_keyboard_theme_name"
+        themeRes="@style/AnyClassicKeyboardTheme"
+        popupThemeRes="@style/AnyClassicKeyboardPopupTheme"
+        iconsThemeRes="@style/AnyClassicKeyboardIconsTheme"
+        description="@string/anyclassic_keyboard_theme_description"
+        index="1"/>
+<!--        themeScreenshot="@drawable/anyclassic_theme_screenshot" -->
+</KeyboardThemes>
